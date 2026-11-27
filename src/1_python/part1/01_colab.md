@@ -12,9 +12,9 @@ jupyter:
 
 # 教材1「Python」第1部 第1回　Colab の使い方
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond/blob/main/1_python/part1/01_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond-course/blob/main/1_python/part1/01_colab.ipynb)
 
-作者：Tomohiko KONNO ／ 出典：https://github.com/tomo835g/python-and-beyond ／ ライセンス：文章 CC BY 4.0、コード MIT
+作者：Tomohiko KONNO ／ 出典：https://github.com/tomo835g/python-and-beyond-course ／ ライセンス：文章 CC BY 4.0、コード MIT
 
 分からないところは AI に聞いてみよう（やり方は 教材1 第1部 第2回「分からないときは AI に聞く」）
 

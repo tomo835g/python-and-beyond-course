@@ -12,9 +12,9 @@ jupyter:
 
 # 教材1「Python」第1部 第2回　分からないときは AI に聞く
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond/blob/main/1_python/part1/02_ask_ai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond-course/blob/main/1_python/part1/02_ask_ai.ipynb)
 
-作者：Tomohiko KONNO ／ 出典：https://github.com/tomo835g/python-and-beyond ／ ライセンス：文章 CC BY 4.0、コード MIT
+作者：Tomohiko KONNO ／ 出典：https://github.com/tomo835g/python-and-beyond-course ／ ライセンス：文章 CC BY 4.0、コード MIT
 
 分からないところは AI に聞いてみよう（そのやり方を説明するのが、この回です）
 

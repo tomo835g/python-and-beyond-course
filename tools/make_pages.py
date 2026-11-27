@@ -7,7 +7,7 @@ from pathlib import Path
 from contents import BOOKS
 
 ROOT = Path(__file__).resolve().parent.parent
-REPO = "tomo835g/python-and-beyond"
+REPO = "tomo835g/python-and-beyond-course"
 BADGE = "https://colab.research.google.com/assets/colab-badge.svg"
 BEGIN, END = "<!-- 教材の表ここから（tools/make_pages.py が作る） -->", "<!-- 教材の表ここまで -->"
 

@@ -12,9 +12,9 @@ Python をゼロから。第1部「基礎」は最初から順に、第2部「�
 
 | 回 | 内容 | ノートブック |
 |---|---|---|
-| 第1回 | Colab の使い方 | [![Colab で開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond/blob/main/1_python/part1/01_colab.ipynb) |
-| 第2回 | 分からないときは AI に聞く | [![Colab で開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond/blob/main/1_python/part1/02_ask_ai.ipynb) |
-| 第3回 | 変数と型 | [![Colab で開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond/blob/main/1_python/part1/03_variables.ipynb) |
+| 第1回 | Colab の使い方 | [![Colab で開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond-course/blob/main/1_python/part1/01_colab.ipynb) |
+| 第2回 | 分からないときは AI に聞く | [![Colab で開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond-course/blob/main/1_python/part1/02_ask_ai.ipynb) |
+| 第3回 | 変数と型 | [![Colab で開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomo835g/python-and-beyond-course/blob/main/1_python/part1/03_variables.ipynb) |
 | 第4回 | リストとタプル | 準備中 |
 | 第5回 | 辞書と集合 | 準備中 |
 | 第6回 | 条件分岐 | 準備中 |
